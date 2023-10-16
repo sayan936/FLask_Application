@@ -1,0 +1,15 @@
+html {
+    font-size: 100px;
+  }
+  
+  @media (min-width: 768px) {
+    html {
+      font-size: 100px;
+    }
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 10px; /* Add padding to maintain space around content */
+  }
